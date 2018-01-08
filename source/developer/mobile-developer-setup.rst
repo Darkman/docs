@@ -30,7 +30,7 @@ Install the following prerequisite software to develop and build the iOS or Andr
 
     $ brew install node
 
- - To install using NVM, follow the instructions  `here <https://github.com/creationix/nvm#install-script>`_
+ - To install using NVM, follow the instructions `here <https://github.com/creationix/nvm#install-script>`_
  - To download and install the package manually, visit from the `NodeJS website<https://nodejs.org/en/>`_
 
 2. Install `Watchman <https://facebook.github.io/watchman/>`_.
