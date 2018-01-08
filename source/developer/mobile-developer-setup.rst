@@ -25,16 +25,16 @@ iOS and Android
 Install the following prerequisite software to develop and build the iOS or Android apps. For macOS, we recommend using `Homebrew <https://brew.sh/>`_ as a package manager.
 
 1. Install `NodeJS <https://nodejs.org/en/>`_.
- - To install using Homebrew open a terminal and execute
+ - To install using Homebrew, open a terminal and execute
  .. code-block:: bash
 
     $ brew install node
 
- - Install using NVM by following the instructions  `here <https://github.com/creationix/nvm#install-script>`_
- - Download and install the package from the `NodeJS website <https://nodejs.org/en/>`_
+ - To install using NVM, follow the instructions  `here <https://github.com/creationix/nvm#install-script>`_
+ - To download and install the package manually, visit from the `NodeJS website<https://nodejs.org/en/>`_
 
 2. Install `Watchman <https://facebook.github.io/watchman/>`_.
- - To install using Homebrew open a terminal and execute
+ - To install using Homebrew, open a terminal and execute
  .. code-block:: bash
 
     $ brew install watchman
@@ -45,18 +45,18 @@ Install the following prerequisite software to develop and build the iOS or Andr
     $ npm -g install react-native-cli
 
 4. Install yarn (used as our package manager for the mobile apps)
- - To install using Homebrew open a terminal and execute
+ - To install using Homebrew, open a terminal and execute
  .. code-block:: bash
 
     $ brew install yarn
 
- - To install using `NPM <https://github.com/npm/npm>`_ open a terminal and execute
+ - To install using `NPM <https://github.com/npm/npm>`_, open a terminal and execute
  .. code-block:: bash
 
     $ npm -g install yarn
 
 5. We use GitHub to host the source code so we recommend that you install `Git <https://git-scm.com/>`_ to get the source code. Optionally, you can also contribute your changes back with `pull requests <https://help.github.com/articles/creating-a-pull-request/>`_.
-   If you do not have git installed you can do so with Homebrew by opening a terminal and executing:
+   If you do not have git installed, you can do so with Homebrew by opening a terminal and executing:
 
  .. code-block:: bash
 
@@ -66,7 +66,7 @@ iOS
 ~~~~~~~~~~~~~~~~~~~
 
 1. Install `Xcode <https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12>`_ to build and run the app on iOS.
-2. Install `Cocoapods <https://cocoapods.org/>`_ using the ``gem`` method. You'll need it to install the project’s iOS dependencies.
+2. Install CocoaPods using ``gem`` as explained `here <https://cocoapods.org/#install>`_. You'll need it to install the project’s iOS dependencies.
 
 Android
 ~~~~~~~~~~~~~~~~~~~
